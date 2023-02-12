@@ -741,7 +741,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   standardFontDataUrl: {
-    value: "../web/standard_fonts/",
+    value: "https://jairppereira.github.io/tcc/standard_fonts/",
     kind: OptionKind.API
   },
   verbosity: {
@@ -753,7 +753,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "../build/pdf.worker.js",
+    value: "https://jairppereira.github.io/tcc/build/pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
