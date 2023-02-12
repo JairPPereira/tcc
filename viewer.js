@@ -775,7 +775,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   };
   defaultOptions.sandboxBundleSrc = {
-    value: "../build/pdf.sandbox.js",
+    value: "https://jairppereira.github.io/tcc/build/pdf.sandbox.js",
     kind: OptionKind.VIEWER
   };
 }
