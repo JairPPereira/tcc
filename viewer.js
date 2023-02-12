@@ -759,7 +759,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "tcc.pdf",
+    value: "https://jairppereira.github.io/tcc/tcc.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
