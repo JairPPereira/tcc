@@ -693,7 +693,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: "https://jairppereira.github.io/tcc/cmaps/",
+    value: "https://tccj.pages.dev/cmaps/",
     kind: OptionKind.API
   },
   disableAutoFetch: {
@@ -741,7 +741,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   standardFontDataUrl: {
-    value: "https://jairppereira.github.io/tcc/standard_fonts/",
+    value: "https://tccj.pages.dev/standard_fonts/",
     kind: OptionKind.API
   },
   verbosity: {
@@ -753,13 +753,13 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "https://jairppereira.github.io/tcc/build/pdf.worker.js",
+    value: "https://tccj.pages.dev/build/pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
 {
   defaultOptions.defaultUrl = {
-    value: "https://jairppereira.github.io/tcc/tcc.pdf",
+    value: "https://tccj.pages.dev/tcc.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
@@ -775,7 +775,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   };
   defaultOptions.sandboxBundleSrc = {
-    value: "https://jairppereira.github.io/tcc/build/pdf.sandbox.js",
+    value: "https://tccj.pages.dev/build/pdf.sandbox.js",
     kind: OptionKind.VIEWER
   };
 }
