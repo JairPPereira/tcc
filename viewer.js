@@ -693,7 +693,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: "../web/cmaps/",
+    value: "https://jairppereira.github.io/tcc/cmaps/",
     kind: OptionKind.API
   },
   disableAutoFetch: {
